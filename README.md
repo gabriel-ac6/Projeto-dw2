@@ -11,9 +11,13 @@ Prontuário: SP3086429
 ----
 
 . Alteração das cores utilizadas
+
 . Atualização das API's do vídeo, ou seja, adequação do código de acordo com a versão mais recente das mesmas
+
 . Centralização das informações
+
 . Incremento de animações usando css
+
 . Integração com banco de dados Google Cloud Firebase
 
 ----
