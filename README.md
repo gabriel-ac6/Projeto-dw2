@@ -4,9 +4,9 @@ Repositório do projeto da disciplina de DW2A4 - do IFSP
 
 Nome: Gabriel de Azevedo Camargo
 
-Prontuário: SP3086429
-
 Email: c.azevedo@aluno.ifsp.edu.br
+
+Prontuário: SP3086429
 
 ----
 #Alterações realizadas frente ao modelo de referência apresentado
