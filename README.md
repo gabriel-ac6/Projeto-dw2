@@ -24,8 +24,9 @@ Prontuário: SP3086429
 #Downloading the packages
 ----
 
-After execute npm start, use npm install, to install the dependencies.
+Before execute npm start, use npm install, to install the dependencies.
 
+----
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
