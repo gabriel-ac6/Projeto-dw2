@@ -1,3 +1,24 @@
+#2023.1 - DW2A4
+----
+Repositório do projeto da disciplina de DW2A4 - do IFSP
+
+Nome: Gabriel de Azevedo Camargo
+Prontuário: SP3086429
+----
+
+#Alterações realizadas frente ao modelo de referência apresentado
+----
+. Alteração das cores utilizadas
+. Atualização das API's do vídeo, ou seja, adequação do código de acordo com a versão mais recente das mesmas
+. Centralização das informações
+. Incremento de animações usando css
+. Integração com banco de dados Google Cloud Firebase
+----
+
+#Downloading the packages
+
+After execute npm start, use npm install, to install the dependencies.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
